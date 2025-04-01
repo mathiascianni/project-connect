@@ -3,7 +3,6 @@
     "short_name": "PJCONNECT",
     "description": "A game using a mobile app as a controller.",
     "start_url": "control.html", 
-    "orientation": "landscape",
     "display": "fullscreen",
     "background_color": "#000000",
     "theme_color": "#1E3A8A",
